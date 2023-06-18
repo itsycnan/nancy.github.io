@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <!-- nav -->
+    <nav>
+        <div>
+            <img src="./image/logo.JPG" alt="">
+        </div>
+        <div>
+            <a class="active-link" href="">首頁</a>
+            <a href="">關於</a>
+            <a href="">國際時事</a>
+            <a href="">日常生活</a>
+            <a href="">訂閱支持</a>
+            <a href="">投稿</a>
+            <a href="">聯絡我們</a>
+        </div>
+    </nav>
+
+    <!-- nav end -->
+    <!-- header -->
+    <header>
+        <div class="header-context">
+            <h1>烏干達國會通過「世上最糟反同志法」，最重可判死刑！白宮 ：
+                考慮祭出經濟制裁</h1>
+            <p>（陳艾伶，風傳媒 2023-03-23 發布）</p>
+            <p>東非大國烏干達國會 21 日以壓倒性票數通過反同性戀法案，將來只要涉及
+                同性戀行為或性別認同者，最重可被判處死刑或無期徒刑，非同志但「涉及
+                參與、推廣或資助同性戀活動者」也可能遭起訴。聯合國表示「這恐是世上
+                最糟糕的反同性戀法案」，並呼籲烏干達總統切莫簽署該法案。</p>
+            <h2>最重可判死刑、無期徒刑</h2>
+            <p>根據《紐約時報》（NYT）報導，在歷經 7 個多小時的討論後，烏干達國
+                會 21 日晚間以 387 票同意、 2 票反對的壓倒性票數，通過「反同性戀法
+                案」（ Anti-Homosexuality Bill ）。從今爾後，在烏干達只要參與、推
+                廣、出資與同性戀相關活動，都可能面臨死刑、無期徒刑，或高額罰款。
+                《紐時》指出，這項法律將對進行同性性行為者判處無期徒刑，而「試圖發
+                生 同 性 性 行 為 」 者 最 高 則 可 被 判 7 年 徒 刑 。 至 於 犯 下 「 嚴 重 同 性 戀 」
+                （aggravated homosexuality）罪者，則可能被判處死刑。根據該法，
+                「嚴重同性戀」的定義為，感染 HIV 病毒者，或涉及與兒童、障礙者，或
+                任何違背其意願而被下藥者進行的同性性行為。
+                新法也規定，任何被判處「宣揚同性戀」者，將面臨最高 10 億烏干達先令
+                （約新台幣 807 萬元）的罰款。另外，18 歲以下被判處同性戀罪者，將面
+                臨最高 3 年的監禁，以及一段時間的「改造」（rehabilitation)。
+                事實上，民風保守的烏干達早就把同性戀視為非法行為，上述行為不論性
+                別也已被明定為犯罪，但這項剛通過的新法，則針對加害者和受害者為同
+                性的情況，新增了死刑。</p>
+            <h3>遭維權人士批為「仇恨立法」</h3>
+            <p>根據《衛報》（ The Guardian ）報導，唯二投下反對票的執政黨「全國
+                抵抗運動」（National Resistance Movement）議員奧多伊 奧維洛沃−
+                （Fox Odoi-Oywelowo ）表示：「該法案構思不當，不僅包含違憲條款，
+                也徹底推翻了過往打擊性暴力的成果。這項法案更將個人視為犯罪的根源，
+                而非針對任何違反已知法律規範的行為。」
+                維權人士更將其稱為「仇恨立法」（ hate legislation ）。烏干達人權運
+                動家卡桑德（Sarah Kasande）22 日在推特（Twitter）發文表示，「今
+                天是烏干達歷史上悲慘的一天。烏干達國會已經通過促進仇恨並試圖剝奪
+                LGBTQ 個人基本權利的立法！」我們將繼續與這種不正義的現象對抗，」烏干達女同志倡議家納巴格塞菈
+                （Kasha Jacqueline Nabagesera ）在推特上寫道，「這張紙（此指新
+                法案）不會阻止我在我的國家內享受，鬥爭才剛剛開始而已。」
+                另一名支持新法的議員穆西拉（John Musila）21 日則在會議廳穿上一件
+                長 袍 ， 上 面 寫 著 ： 「 對 同 性 戀 、 女 同 志 、 男 同 志 說 不 。 」 （ Say No To
+                Homosexual, Lesbianism, Gay.）</p>
+            <h4>烏干達總統：同性戀是不正常的人</h4>
+            <p>其實，這項法案的早期版本先前就引起國際廣泛批評，後來被烏干達憲法法
+                院 以 程 序 為 由 廢 止 。 目 前 ， 該 法 案 將 提 交 給 總 統 穆 塞 韋 尼 （ Yoweri
+                Museveni），預計會簽署通過。他在擔任總統近 40 年間，曾多次公開反
+                對同志族群，並指控同性戀族群「破壞烏干達穩定」，甚至稱同性戀者為
+                「不正常的人」（deviants）。
+                儘管穆塞韋尼是西方的親近盟友，且每年自美國獲得近 10 億美元的發展援
+                助，但他仍不顧西方國家呼籲，堅定表示烏干達不會接受同性戀，並聲稱西
+                方正試圖迫使其他國家「正常化」它認為的「偏差」。
+                「 西 方 國 家 應 該 停 止 把 自 己 的 做 法 強 加 在 他 人 身 上 ， 從 而 浪 費 人 類 的 時
+                間，」穆塞韋尼 16 日向國會發表電視演說稱，「同性戀者是偏離常態的，
+                為什麼呢？這是天生的還是後天的？我們需要回答這些問題，我們需要對此
+                提出醫學意見。」</p>
+            <h5>美國考慮祭出經濟制裁</h5>
+            <p>美國國家安全委員會發言人柯比（John Kirby ）表示，如果該法正式通過，
+                華府將考慮對烏干達實施經濟制裁。白宮新聞秘書尚皮耶（ Karine Jean-
+                Pierre ）22 日強調，美國對該法案「深感擔憂」，並稱這將阻礙該國的旅
+                遊業和經濟投資，並「損害烏干達的聲譽」。
+                尚皮耶補充說道：「任何人都不應僅僅因為他們是誰，或他們愛誰，而遭受
+                到攻擊、監禁或殺害。」聯合國人權事務高級專員特克（Volker Turk）則
+                在一份聲明中説，這項歧視性法案可能是世界上最糟糕的反同志法案，這是
+                一個令人深感不安的事態發展。
+                目前，非洲 54 個國家中就有 30 多個國家將同性戀定為犯罪。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="header-carousel">
+            <div id="carouselExample" class="carousel slide">
+                <!-- 輪播內容容器 -->
+                <div class="carousel-inner">
+                    <!-- page1 -->
+                    <div class="carousel-item active">
+                        <img src="image/20210113-035151_U11552_M666609_3a1f.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <!-- page2 -->
+                    <div class="carousel-item">
+                        <img src="image/20230323-084054_U24006_M839422_1413.jpg" class="d-block w-100" alt="...">
+                    </div>
+
+                </div>
+                <!-- 上一頁按鈕 -->
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <!-- 下一頁按鈕 -->
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <!-- header end -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
